@@ -1,0 +1,13 @@
+{
+  "name": "lipmatch-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "description": "LipMatch AI 前端：純 TypeScript（無框架），以 tsc 編譯成靜態 JS 交給 nginx",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "5.6.3"
+  }
+}

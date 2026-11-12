@@ -1,0 +1,426 @@
+{
+  "_說明": "每份文獻的書目資訊，用於 RAG 回答時標示出處。只填原文中查得到的資訊，並在 verified_from 註明出處頁；查不到就留 null，不推測。",
+  "TH013": {
+    "title": "Investigation on Facial Skin Colour Perception Induced by Different Lipstick Shades",
+    "authors": [
+      "Yifei Chen"
+    ],
+    "author_citation": "Chen, Y.",
+    "year": 2024,
+    "doc_type": "Master by Research thesis",
+    "institution": "University of Leeds, School of Design",
+    "url": null,
+    "related_publication": "Chen, Y., Xiao, K and Rigout M. (2023). 'INVESTIGATING THE EFFECT OF LIPSTICK COLOUR ON SKIN COLOUR PERCEPTION FOR CHINESE FEMALE', AIC 2023 Congress, Thailand, 26 Nov 2023.",
+    "verified_from": "PDF p.1（標題、作者、學位、單位、年月）；p.2（相關發表）"
+  },
+  "TH014": {
+    "title": "彩妝膚色之顯示再現及白光LED之膚色喜好度研究（A Study of Cosmetic Skin Color Reproduction on a Display and Preferred Skin Color for White Light-Emitting Diode）",
+    "authors": [
+      "周靜茹"
+    ],
+    "author_citation": "周靜茹",
+    "year": 2014,
+    "doc_type": "碩士學位論文",
+    "institution": "國立台灣科技大學 色彩與照明科技研究所（指導教授：陳鴻興）",
+    "url": null,
+    "related_publication": null,
+    "verified_from": "PDF p.1 封面（中英文題目、作者、學號 M10025009、指導教授、所別、日期：中華民國一百零三年一月十五日）"
+  },
+  "AR015": {
+    "title": "Development of a lip colour chart across four ethnicities",
+    "authors": [
+      "Zoé Charton",
+      "Héloïse Vergnaud",
+      "Laurence Caisey",
+      "David Blumenthal",
+      "Michael Ma",
+      "Anthony Shi",
+      "Virginie Couturaud",
+      "Tony Xu",
+      "Eléonore Loescher"
+    ],
+    "author_citation": "Charton, Z., et al.",
+    "year": 2026,
+    "doc_type": "Review article",
+    "institution": "International Journal of Cosmetic Science, 48, 161–171",
+    "url": "https://doi.org/10.1111/ics.70004",
+    "related_publication": null,
+    "verified_from": "PDF p.1（頁首 Int J Cosmet Sci. 2026;48:161–171、DOI 10.1111/ics.70004、標題、作者；Received 6 Dec 2024, Accepted 15 Jun 2025；CC BY-NC 開放取用）"
+  },
+  "AR012": {
+    "title": "Categorization and Labeling of Red Variations in Lip Makeup",
+    "authors": [
+      "Boram Kim",
+      "Stella Yolanda",
+      "Moonha Kim",
+      "Hyeon-Jeong Suk"
+    ],
+    "author_citation": "Kim, B., et al.",
+    "year": 2025,
+    "doc_type": "Research article",
+    "institution": "Color Research & Application, 50, 542–564",
+    "url": "https://doi.org/10.1002/col.22991",
+    "related_publication": null,
+    "verified_from": "PDF p.1（頁首 Color Research & Application, 2025; 50:542–564、DOI 10.1002/col.22991、標題、作者與單位；Received 10 July 2024, Revised 25 January 2025, Accepted 11 May 2025；CC BY-NC-ND 開放取用；Amorepacific 資助）"
+  },
+  "AR002": {
+    "title": "Assessment of color preference, purchase intention and sexual attractiveness of lipstick colors under multiple lighting conditions",
+    "authors": [
+      "Baolin Tian",
+      "Hanwen Gong",
+      "Zhiyu Chen",
+      "Xuan Yu",
+      "Michael R. Pointer",
+      "Jie Yu",
+      "Feng Yu",
+      "Qiang Liu"
+    ],
+    "author_citation": "Tian, B., et al.",
+    "year": 2023,
+    "doc_type": "Original Research",
+    "institution": "Frontiers in Neuroscience, 17, 1280270",
+    "url": "https://doi.org/10.3389/fnins.2023.1280270",
+    "related_publication": null,
+    "verified_from": "PDF p.1（標題、作者、TYPE Original Research、PUBLISHED 14 November 2023、CITATION Front. Neurosci. 17:1280270、DOI；COPYRIGHT 段：CC BY 開放取用）；下載自 frontiersin.org，2026-10-14"
+  },
+  "PR003": {
+    "title": "Skin Tones",
+    "authors": [
+      "Kryolan"
+    ],
+    "author_citation": "Kryolan",
+    "year": null,
+    "doc_type": "web article（品牌部落格，業界經驗，非實證研究）",
+    "institution": "Kryolan Professional Make-up blog",
+    "url": "https://global.kryolan.com/blog/posts/skin-tones",
+    "related_publication": null,
+    "verified_from": "網頁 <title>「Skin Tones | Kryolan - Professional Make-up」；頁面未標作者與發布日期（頁尾 © 2026 為版權年份，不當作發布年）；文中引述 Jos Brand、Paul Merchant；擷取日期 2026-10-14"
+  },
+  "AR001": {
+    "title": "Lip color measurement: A new hyperspectral imaging device",
+    "authors": [
+      "Héloïse Vergnaud",
+      "Marie Cherel",
+      "Ghislain Francois",
+      "Zoé Charton",
+      "Eléonore Loescher",
+      "Laurence Caisey",
+      "Germaine Gazano"
+    ],
+    "author_citation": "Vergnaud, H., et al.",
+    "year": 2023,
+    "doc_type": "Original article",
+    "institution": "Skin Research and Technology, 29, e13418",
+    "url": "https://doi.org/10.1111/srt.13418",
+    "related_publication": null,
+    "verified_from": "PDF p.1（Received 1 December 2022、Accepted 12 July 2023、DOI 10.1111/srt.13418、ORIGINAL ARTICLE、標題、作者與單位；頁尾 Skin Res Technol. 2023;29:e13418；CC BY-NC-ND 開放取用聲明）"
+  },
+  "AR003": {
+    "title": "Effects of Lip Color on Perceived Lightness of Human Facial Skin",
+    "authors": [
+      "Yuki Kobayashi",
+      "Soyogu Matsushita",
+      "Kazunori Morikawa"
+    ],
+    "author_citation": "Kobayashi, Y., et al.",
+    "year": 2017,
+    "doc_type": "Short Report",
+    "institution": "i-Perception, July–August 2017, 1–10",
+    "url": "https://doi.org/10.1177/2041669517717500",
+    "related_publication": null,
+    "verified_from": "PDF p.1（Short Report、標題、作者與單位；頁尾 i-Perception July-August 2017, 1–10、DOI 10.1177/2041669517717500；Creative Commons CC-BY 4.0 聲明）。PDF 內建 title 為 untitled，以內文為準"
+  },
+  "AR004": {
+    "title": "Color illusion on complexion by lipsticks and its impression",
+    "authors": [
+      "Yoshie Kiritani",
+      "Akane Okazaki",
+      "Kanako Motoyoshi",
+      "Ruriko Takano",
+      "Noriko Ookubo"
+    ],
+    "author_citation": "Kiritani, Y., et al.",
+    "year": 2017,
+    "doc_type": "journal article",
+    "institution": "The Japanese Journal of Psychonomic Science（基礎心理学研究）, 36(1), 4–16",
+    "url": "https://doi.org/10.14947/psychono.36.2",
+    "related_publication": null,
+    "verified_from": "PDF p.1（DOI 10.14947/psychono.36.2、基礎心理学研究 第36巻 第1号、標題、作者與單位）；末頁 Vol. 36, No. 1、Received November 28, 2016; Accepted April 27, 2017；Copyright 2017. The Japanese Psychonomic Society. All rights reserved."
+  },
+  "TX001": {
+    "title": "Beauty Therapist (Job Role): Vocational Textbook for Grade 12",
+    "authors": [
+      "National Council of Educational Research and Training (NCERT)"
+    ],
+    "author_citation": "NCERT",
+    "year": 2026,
+    "doc_type": "vocational textbook（First Edition）",
+    "institution": "National Council of Educational Research and Training, New Delhi（ISBN 978-93-5729-292-4）",
+    "url": "https://psscive.ac.in/storage/uploads/textbooks/pdf/english/beauty-therapist-english-class-%2012.pdf",
+    "related_publication": null,
+    "verified_from": "PDF p.2（Beauty Therapist (Job Role)、Qualification Pack BWS/Q0102、Textbook for Grade 12）；p.3 版權頁（ISBN 978-93-5729-292-4、First Edition January 2026、© NCERT 2025、ALL RIGHTS RESERVED）。p.1 為封面圖片無文字層"
+  },
+  "PR005": {
+    "title": "How to Lip Gloss",
+    "authors": [
+      "Kryolan"
+    ],
+    "author_citation": "Kryolan",
+    "year": null,
+    "doc_type": "web article（品牌部落格，業界經驗，非實證研究）",
+    "institution": "Kryolan Professional Make-up blog",
+    "url": "https://global.kryolan.com/blog/posts/how-lip-gloss",
+    "related_publication": null,
+    "verified_from": "網頁 <title>「How to Lip Gloss | Kryolan - Professional Make-up」、h1；頁面未標作者與發布日期（頁尾 © Kryolan 2026 為版權年份，不當作發布年）；擷取日期 2026-10-15"
+  },
+  "PR012": {
+    "title": "13 Easy Makeup Ideas Perfect for Busy Mornings",
+    "authors": [
+      "Gillian Fuller"
+    ],
+    "author_citation": "Fuller, G.",
+    "year": 2025,
+    "doc_type": "web article（品牌美妝雜誌，業界經驗，非實證研究）",
+    "institution": "L'Oréal Paris Beauty Magazine",
+    "url": "https://www.lorealparisusa.com/beauty-magazine/makeup/makeup-looks/easy-everyday-makeup-tutorials",
+    "related_publication": null,
+    "verified_from": "網頁 h1、JSON-LD Article（headline、author Gillian Fuller、datePublished 2025-03-21）、署名列「By Gillian Fuller March 21, 2025」；<title> 為「13 Simple Makeup Looks You Can Wear Every Day」；擷取日期 2026-10-15"
+  },
+  "PR015": {
+    "title": "How To Apply Matte Lipstick Like a Pro",
+    "authors": [
+      "Gillian Fuller"
+    ],
+    "author_citation": "Fuller, G.",
+    "year": 2025,
+    "doc_type": "web article（品牌美妝雜誌，業界經驗，非實證研究）",
+    "institution": "L'Oréal Paris Beauty Magazine",
+    "url": "https://www.lorealparisusa.com/beauty-magazine/makeup/lip-makeup/matte-lipstick-dos-and-donts",
+    "related_publication": null,
+    "verified_from": "網頁 h1、JSON-LD Article（headline、author Gillian Fuller、datePublished 2025-12-18）、署名列「By Gillian Fuller December 18, 2025」；<title> 為「The Do’s and Don’ts of Matte Lipstick」；擷取日期 2026-10-15"
+  },
+  "PR017": {
+    "title": "Sweet and Chic: 7 Pink Makeup Looks for Every Occasion",
+    "authors": [
+      "Gillian Fuller"
+    ],
+    "author_citation": "Fuller, G.",
+    "year": 2025,
+    "doc_type": "web article（品牌美妝雜誌，業界經驗，非實證研究）",
+    "institution": "L'Oréal Paris Beauty Magazine",
+    "url": "https://www.lorealparisusa.com/beauty-magazine/makeup/makeup-looks/baby-pink-monochromatic-makeup-tutorial",
+    "related_publication": null,
+    "verified_from": "網頁 h1、署名列「By Gillian Fuller July 02, 2025」；JSON-LD datePublished 2025-12-01、dateModified 2025-07-02（兩者矛盾，以頁面顯示為準，年份同為 2025）；擷取日期 2026-10-15"
+  },
+  "PR020": {
+    "title": "Best Lipstick Colours for Tan, Deep and Dark Skin",
+    "authors": [
+      "Charlotte Tilbury"
+    ],
+    "author_citation": "Tilbury, C.",
+    "year": 2026,
+    "doc_type": "web article（品牌部落格，業界經驗，非實證研究）",
+    "institution": "Charlotte Tilbury Beauty（Islestarr Holdings Ltd.）",
+    "url": "https://www.charlottetilbury.com/eu/secrets/best-lipstick-colours-dark-skin",
+    "related_publication": null,
+    "verified_from": "網頁 h1、meta article:author「Charlotte Tilbury」、article:published_time 2026-03-31、署名列「By Charlotte Tilbury」「31st March 2026」；頁尾 © Islestarr Holdings Ltd. All rights reserved；擷取日期 2026-10-15"
+  },
+  "PR021": {
+    "title": "How To Choose the Perfect Lipstick",
+    "authors": [
+      "Charlotte Tilbury"
+    ],
+    "author_citation": "Tilbury, C.",
+    "year": 2026,
+    "doc_type": "web article（品牌部落格，業界經驗，非實證研究）",
+    "institution": "Charlotte Tilbury Beauty（Islestarr Holdings Ltd.）",
+    "url": "https://www.charlottetilbury.com/ca/secrets/how-to-choose-lipstick",
+    "related_publication": null,
+    "verified_from": "網頁 h1、meta article:author「Charlotte Tilbury」、article:published_time 2026-04-01、署名列「By Charlotte Tilbury」「1st April 2026」；頁尾 © Islestarr Holdings Ltd. All rights reserved；擷取日期 2026-10-15"
+  },
+  "PR023": {
+    "title": "秋季唇彩",
+    "authors": [
+      "Maybelline New York"
+    ],
+    "author_citation": "Maybelline New York",
+    "year": null,
+    "doc_type": "web article（品牌彩妝教學，業界經驗，非實證研究）",
+    "institution": "Maybelline 媚比琳台灣官網",
+    "url": "https://www.maybelline.com.tw/makeup-tips/lip-makeup-tutorials/trending-fall-lipstick-colors",
+    "related_publication": null,
+    "verified_from": "網頁 h1「秋季唇彩」、canonical https://www.maybelline.com.tw/makeup-tips/lip-makeup-tutorials/trending-fall-lipstick-colors；頁面署名「By Maybelline New York」，標示日期 2026-06-03（JSON-LD datePublished 2026-06-01）；同站 PR023–PR028 皆在 2026-06-03／04 數分鐘內發布，疑為網站批次上架日、非原始發表日，故 year 填 null；頁尾 © 2021 Maybelline New York；擷取日期 2026-10-15"
+  },
+  "PR024": {
+    "title": "如何打造美豔紅唇",
+    "authors": [
+      "Maybelline New York"
+    ],
+    "author_citation": "Maybelline New York",
+    "year": null,
+    "doc_type": "web article（品牌彩妝教學，業界經驗，非實證研究）",
+    "institution": "Maybelline 媚比琳台灣官網",
+    "url": "https://www.maybelline.com.tw/makeup-tips/lip-makeup-tutorials/how-to-do-red-ombre-lips",
+    "related_publication": null,
+    "verified_from": "網頁 h1「如何打造美豔紅唇」、canonical https://www.maybelline.com.tw/makeup-tips/lip-makeup-tutorials/how-to-do-red-ombre-lips；頁面署名「By Maybelline New York」，標示日期 2026-06-03（JSON-LD datePublished 2026-06-01）；同站 PR023–PR028 皆在 2026-06-03／04 數分鐘內發布，疑為網站批次上架日、非原始發表日，故 year 填 null；頁尾 © 2021 Maybelline New York；擷取日期 2026-10-15"
+  },
+  "PR025": {
+    "title": "如何塗抹霧感液態唇膏",
+    "authors": [
+      "Maybelline New York"
+    ],
+    "author_citation": "Maybelline New York",
+    "year": null,
+    "doc_type": "web article（品牌彩妝教學，業界經驗，非實證研究）",
+    "institution": "Maybelline 媚比琳台灣官網",
+    "url": "https://www.maybelline.com.tw/makeup-tips/lip-makeup-tutorials/how-to-apply-liquid-matte-lipstick",
+    "related_publication": null,
+    "verified_from": "網頁 h1「如何塗抹霧感液態唇膏」、canonical https://www.maybelline.com.tw/makeup-tips/lip-makeup-tutorials/how-to-apply-liquid-matte-lipstick；頁面署名「By Maybelline New York」，標示日期 2026-06-04；同站 PR023–PR028 皆在 2026-06-03／04 數分鐘內發布，疑為網站批次上架日、非原始發表日，故 year 填 null；頁尾 © 2021 Maybelline New York；擷取日期 2026-10-15"
+  },
+  "PR026": {
+    "title": "跨年展魅力",
+    "authors": [
+      "Maybelline New York"
+    ],
+    "author_citation": "Maybelline New York",
+    "year": null,
+    "doc_type": "web article（品牌彩妝教學，業界經驗，非實證研究）",
+    "institution": "Maybelline 媚比琳台灣官網",
+    "url": "https://www.maybelline.com.tw/makeup-tips/all-makeup-trends/by-occasion/new-years-makeup-tutorial",
+    "related_publication": null,
+    "verified_from": "網頁 h1「跨年展魅力」、canonical https://www.maybelline.com.tw/makeup-tips/all-makeup-trends/by-occasion/new-years-makeup-tutorial；頁面署名「By Maybelline New York」，標示日期 2026-06-03；同站 PR023–PR028 皆在 2026-06-03／04 數分鐘內發布，疑為網站批次上架日、非原始發表日，故 year 填 null；頁尾 © 2021 Maybelline New York；擷取日期 2026-10-15"
+  },
+  "PR027": {
+    "title": "佳節喜氣妝容彩妝教學",
+    "authors": [
+      "Maybelline New York"
+    ],
+    "author_citation": "Maybelline New York",
+    "year": null,
+    "doc_type": "web article（品牌彩妝教學，業界經驗，非實證研究）",
+    "institution": "Maybelline 媚比琳台灣官網",
+    "url": "https://www.maybelline.com.tw/makeup-tips/all-makeup-trends/by-occasion/festival--flare",
+    "related_publication": null,
+    "verified_from": "網頁 h1「佳節喜氣妝容彩妝教學」、canonical https://www.maybelline.com.tw/makeup-tips/all-makeup-trends/by-occasion/festival--flare；頁面署名「By Maybelline New York」，標示日期 2026-06-03；同站 PR023–PR028 皆在 2026-06-03／04 數分鐘內發布，疑為網站批次上架日、非原始發表日，故 year 填 null；頁尾 © 2021 Maybelline New York；擷取日期 2026-10-15"
+  },
+  "PR028": {
+    "title": "立體化妝法",
+    "authors": [
+      "Maybelline New York"
+    ],
+    "author_citation": "Maybelline New York",
+    "year": null,
+    "doc_type": "web article（品牌彩妝教學，業界經驗，非實證研究）",
+    "institution": "Maybelline 媚比琳台灣官網",
+    "url": "https://www.maybelline.com.tw/makeup-tips/all-makeup-trends/by-style/holographic-draping",
+    "related_publication": null,
+    "verified_from": "網頁 h1「立體化妝法」、canonical https://www.maybelline.com.tw/makeup-tips/all-makeup-trends/by-style/holographic-draping；頁面署名「By Maybelline New York」，標示日期 2026-06-03；同站 PR023–PR028 皆在 2026-06-03／04 數分鐘內發布，疑為網站批次上架日、非原始發表日，故 year 填 null；頁尾 © 2021 Maybelline New York；擷取日期 2026-10-15"
+  },
+  "PR032": {
+    "title": "顏色的文化意義：紅白綠黃在各國為什麼解讀不同",
+    "authors": [
+      "Haden"
+    ],
+    "author_citation": "Haden／龐果設計",
+    "year": 2026,
+    "doc_type": "web_article",
+    "institution": "龐果設計",
+    "url": "https://www.pongo.com.tw/color-cultural-meaning/",
+    "verified_from": "網頁標題與更新日期；rendered DOM SHA-256；逐段引用對照另見 cited_works",
+    "references": [
+      {
+        "work_id": "PR032-REF01",
+        "title": "The good, the bad, and the red: implicit color-valence associations across cultures",
+        "authors": [
+          "Claudia Kawai",
+          "Yang Zhang",
+          "Gáspár Lukács",
+          "Wenyi Chu",
+          "Chaoyi Zheng",
+          "Cijun Gao",
+          "Davood Gozli",
+          "Yonghui Wang",
+          "Ulrich Ansorge"
+        ],
+        "doi": "10.1007/s00426-022-01697-5",
+        "year": 2023,
+        "online_year": 2022,
+        "url": "https://link.springer.com/article/10.1007/s00426-022-01697-5",
+        "verification": "publisher abstract and Experiment 1 results checked",
+        "locator": "Experiment 1 / Results / reaction times; Fig. 2; Table 1",
+        "limits": "內隱聯想與色彩對比實驗；澳門紅綠結果與奧地利無顯著差異，不等於整個東亞；不能推成紅色沒有負面意義。"
+      },
+      {
+        "work_id": "PR032-REF02",
+        "title": "Do we feel colours? A systematic review of 128 years of psychological research linking colours and emotions",
+        "authors": [
+          "Domicele Jonauskaite",
+          "Christine Mohr"
+        ],
+        "doi": "10.3758/s13423-024-02615-z",
+        "year": 2025,
+        "url": "https://link.springer.com/article/10.3758/s13423-024-02615-z",
+        "verification": "publisher abstract, Results and Conclusion checked",
+        "locator": "Abstract; Colour correspondences with affective dimensions; Conclusion",
+        "limits": "多數研究測抽象聯想，不證明實際情緒改變或唇妝效果；紅色正負聯想並存，不等於文化影響比其他色大。"
+      },
+      {
+        "work_id": "PR032-REF03",
+        "title": "Universal Patterns in Color-Emotion Associations Are Further Shaped by Linguistic and Geographic Proximity",
+        "authors": [
+          "Domicele Jonauskaite et al."
+        ],
+        "doi": "10.1177/0956797620948810",
+        "year": 2020,
+        "url": "https://journals.sagepub.com/doi/10.1177/0956797620948810",
+        "verification": "publisher abstract checked; restricted full text not reviewed",
+        "locator": "Abstract",
+        "limits": "30國受試者的群體聯想；相關不是因果，不能當個人偏好，不能概括成全人類。"
+      }
+    ],
+    "license_status": "pending_review"
+  },
+  "PR033": {
+    "title": "A Guide to Color Matching — comment cd128d0",
+    "authors": [
+      "[deleted]"
+    ],
+    "author_citation": "[deleted]",
+    "year": null,
+    "date": null,
+    "doc_type": "web_article",
+    "institution": "Reddit / r/femalefashionadvice",
+    "url": "https://www.reddit.com/r/femalefashionadvice/comments/1pbmrj/comment/cd128d0/",
+    "verified_from": "web tool extracted paragraph; original DOM unavailable due to CAPTCHA; no CAPTCHA bypass; web-extracted snapshot: thread 1pbmrj / comment cd128d0 / paragraph starting You can see how",
+    "license_status": "pending_review",
+    "evidence_scope": "社群匿名留言，非專業或學術定義。只支持此留言把blue-red稱cool red、orange-red稱warm red；深淺亮暗只描述連結圖片，不能概括所有冷暖紅。原文兩處都寫left，未改成right；圖片未核對。日期未核實，不沿用主貼日期當留言日期。"
+  },
+  "PR034": {
+    "title": "【shu uemura 植村秀】 2020 秋冬潮流 唇妝大勢關鍵 時尚週PANTONE指定色「ROSE TAN 煙燻粉棕」",
+    "authors": [],
+    "author_citation": "@cosme 台灣／植村秀品牌報導",
+    "year": 2020,
+    "date": "2020-10-27",
+    "doc_type": "web_article",
+    "institution": "@cosme 台灣／植村秀品牌報導",
+    "url": "https://www.cosme.net.tw/beautynews/19868",
+    "verified_from": "browser rendered DOM; html[1]>body[1]>div[2]>div[3]>div[1]>div[1]>div[1]>div[5]>p[2]",
+    "license_status": "pending_review",
+    "evidence_scope": "品牌宣傳報導，只支持該系列介於豆沙裸棕與乾燥玫瑰之間、帶灰調煙燻粉棕的描述，不是乾燥玫瑰的通用定義。完整段落含仙氣、氣質、不反灰暗沉等宣傳詞，不得當實證功效、普遍保證或個人適用結論。無Lab或HEX數值。"
+  },
+  "PR035": {
+    "title": "从数字编号到谐音联想，揭秘爆款口红色号命名的五大套路 | CBNData",
+    "authors": [
+      "Evelyn Wang"
+    ],
+    "author_citation": "Evelyn Wang",
+    "year": 2021,
+    "date": "2021-08-05",
+    "doc_type": "web_article",
+    "institution": "Vogue Business（原發布）；CBNData（轉載）",
+    "url": "https://www.cbndata.com/information/190676",
+    "verified_from": "browser rendered DOM; html[1]>body[1]>div[1]>div[1]>section[1]>div[1]>div[1]>div[1]>section[2]>section[1]>section[12]>section[1]>p[3]",
+    "license_status": "pending_review",
+    "evidence_scope": "媒體行銷觀察，支持命名兼顧色彩特質與情感聯想；不支持任何單一產品實際色值、也不表示所有色名都毫無色彩資訊。原文為簡體，原文字段不轉繁體。此段沒有引用研究，不將頁面別段研究套入。"
+  }
+}

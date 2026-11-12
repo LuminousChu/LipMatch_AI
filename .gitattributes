@@ -1,0 +1,6 @@
+# 容器內執行的腳本與設定必須是 LF；Windows 的 core.autocrlf 轉成 CRLF 會讓 sh 執行失敗
+*.sh text eol=lf
+db/init/* text eol=lf
+frontend/nginx.conf text eol=lf
+# Windows 批次檔必須是 CRLF
+*.cmd text eol=crlf

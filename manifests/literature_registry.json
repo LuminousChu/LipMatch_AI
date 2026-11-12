@@ -1,0 +1,1349 @@
+{
+  "schema_version": "1.0.0",
+  "generated_on": "2026-10-15",
+  "purpose": "Literature candidate registry; NOT evidence and NOT an ETL ingestion list",
+  "categories": {
+    "K01": "色彩科學與色彩測量",
+    "K02": "色彩語意與命名",
+    "K03": "膚色、原生唇色與實際顯色",
+    "K04": "專業彩妝技術與配色",
+    "K05": "色彩感知、印象與偏好",
+    "K06": "場合、風格與整體妝容"
+  },
+  "record_count": 69,
+  "records": [
+    {
+      "doc_id": "TH013",
+      "display_name_zh": "唇彩影響臉部色彩感知（英文文獻）",
+      "source_type": "thesis",
+      "categories": [
+        "K03",
+        "K05"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://etheses.whiterose.ac.uk/id/eprint/35290/",
+      "year": 2024,
+      "authors": [
+        "Yifei Chen"
+      ],
+      "local_path": "data/raw/academic_papers/TH013_唇彩影響臉部色彩感知_英文文獻_2024.pdf",
+      "notes": "原 doc_id LEEDS_2024（2026-10-17 依新編碼規則改為本編號；資料庫舊文件 LEEDS_2024 保留作歷史，不再使用）。"
+    },
+    {
+      "doc_id": "TH014",
+      "display_name_zh": "彩妝膚色顯示再現與 LED 偏好",
+      "source_type": "thesis",
+      "categories": [
+        "K01",
+        "K03",
+        "K05"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": 2014,
+      "authors": [
+        "周靜茹"
+      ],
+      "local_path": "data/raw/academic_papers/TH014_彩妝膚色顯示與LED偏好_2014.pdf",
+      "notes": "原 doc_id TW001（2026-10-17 依新編碼規則改為本編號；資料庫舊文件 TW001 保留作歷史，不再使用）。"
+    },
+    {
+      "doc_id": "AR015",
+      "display_name_zh": "四族群自然唇色色卡研究（英文文獻）",
+      "source_type": "journal_article",
+      "categories": [
+        "K01",
+        "K03"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://doi.org/10.1111/ics.70004",
+      "year": 2026,
+      "authors": [
+        "Zoé Charton"
+      ],
+      "local_path": "data/raw/academic_papers/AR015_四族群自然唇色色卡研究_英文文獻_2026.pdf",
+      "notes": "原 doc_id CHARTON_2026（2026-10-17 依新編碼規則改為本編號；資料庫舊文件 CHARTON_2026 保留作歷史，不再使用）。"
+    },
+    {
+      "doc_id": "TH004",
+      "display_name_zh": "口紅色彩意象調查研究",
+      "source_type": "thesis",
+      "categories": [
+        "K02",
+        "K05"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "unverified",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": null,
+      "authors": [
+        "徐千惠、賴瓊琦"
+      ],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "TH005",
+      "display_name_zh": "口紅及唇型之心理意象調查研究",
+      "source_type": "thesis",
+      "categories": [
+        "K02",
+        "K03",
+        "K05"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "unverified",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": null,
+      "authors": [
+        "高慧鉦"
+      ],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "TH006",
+      "display_name_zh": "台灣本土特有物種造形意象應用於時尚彩妝設計發展與實現之研究",
+      "source_type": "thesis",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "unverified",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "TH007",
+      "display_name_zh": "彩妝教學之配色網頁設計－以美容科為例",
+      "source_type": "thesis",
+      "categories": [
+        "K01",
+        "K04",
+        "K06"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "partial_only",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": 2011,
+      "authors": [
+        "侯淑薰"
+      ],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "TH008",
+      "display_name_zh": "皮膚顏色與指甲油顏色之意象關聯",
+      "source_type": "thesis",
+      "categories": [
+        "K02",
+        "K05"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "unverified",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": null,
+      "authors": [
+        "曾麗香"
+      ],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "TH009",
+      "display_name_zh": "膚色與彩妝策略關係之探討",
+      "source_type": "thesis",
+      "categories": [
+        "K03",
+        "K04",
+        "K05"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "access_pending",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://ir.lib.nycu.edu.tw/bitstream/11536/43153/1/252001.pdf",
+      "year": 2010,
+      "authors": [
+        "施曉蕙"
+      ],
+      "local_path": null,
+      "notes": "2026-10-15 確認：source_url 已 404、handle 11536/43153 在陽明交大典藏查無項目、典藏系統搜題名無結果；使用者另行確認無可取得全文。暫不下載。"
+    },
+    {
+      "doc_id": "TH010",
+      "display_name_zh": "俄語媒體語篇中的彩妝顏色詞彙與世界圖景",
+      "source_type": "thesis",
+      "categories": [
+        "K02"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "partial_only",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": 2026,
+      "authors": [
+        "吳宜樺"
+      ],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "TH011",
+      "display_name_zh": "唇彩名稱翻譯策略—M·A·C 在台灣市場之翻譯研究",
+      "source_type": "thesis",
+      "categories": [
+        "K02"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "partial_only",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": 2025,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "TH012",
+      "display_name_zh": "以語言模型色彩理解能力為基礎的色彩應用研究－以唇彩業為例",
+      "source_type": "thesis",
+      "categories": [
+        "K01",
+        "K02",
+        "K03",
+        "K04",
+        "K05",
+        "K06"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": 2025,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "AR001",
+      "display_name_zh": "高光譜唇色測量與可靠性（英文文獻）",
+      "source_type": "journal_article",
+      "categories": [
+        "K01",
+        "K03"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10410235/",
+      "year": 2023,
+      "authors": [
+        "Héloïse Vergnaud",
+        "Marie Cherel",
+        "Ghislain Francois",
+        "Zoé Charton",
+        "Eléonore Loescher",
+        "Laurence Caisey",
+        "Germaine Gazano"
+      ],
+      "local_path": "data/raw/academic_papers/AR001_高光譜唇色測量與可靠性_英文文獻_2023.pdf",
+      "notes": "英文期刊論文（Skin Res Technol. 2023;29:e13418）。PDF p.1 標示 CC BY-NC-ND（禁止改作、非商業）；作者含 Zoé Charton（LVMH Recherche，與 AR015（原 CHARTON_2026）同一研究團隊）。本機取得 2026-10-15。"
+    },
+    {
+      "doc_id": "AR002",
+      "display_name_zh": "不同光源與唇彩偏好（英文文獻）",
+      "source_type": "journal_article",
+      "categories": [
+        "K03",
+        "K05"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10693985/",
+      "year": 2023,
+      "authors": [
+        "Baolin Tian",
+        "Hanwen Gong",
+        "Zhiyu Chen",
+        "Xuan Yu",
+        "Michael R. Pointer",
+        "Jie Yu",
+        "Feng Yu",
+        "Qiang Liu"
+      ],
+      "local_path": "data/raw/academic_papers/AR002_不同光源與唇彩偏好_英文文獻_2023.pdf",
+      "notes": "英文期刊論文（Front. Neurosci. 2023;17:1280270，DOI 10.3389/fnins.2023.1280270）。PDF p.1 標示 CC BY；全文下載自 frontiersin.org（2026-10-14）。原本機暫用 doc_id TIAN_2023，已改為本編號。"
+    },
+    {
+      "doc_id": "AR003",
+      "display_name_zh": "唇色與臉部明亮感（英文文獻）",
+      "source_type": "journal_article",
+      "categories": [
+        "K05"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5528190/",
+      "year": 2017,
+      "authors": [
+        "Yuki Kobayashi",
+        "Soyogu Matsushita",
+        "Kazunori Morikawa"
+      ],
+      "local_path": "data/raw/academic_papers/AR003_唇色與臉部明亮感_英文文獻_2017.pdf",
+      "notes": "英文期刊論文（i-Perception 2017；卷期號 PDF 未標示，未填）。PDF p.1 標示 CC BY 4.0。本機取得 2026-10-15。"
+    },
+    {
+      "doc_id": "AR004",
+      "display_name_zh": "唇色視覺錯覺與印象（英文文獻）",
+      "source_type": "journal_article",
+      "categories": [
+        "K03",
+        "K05"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.jstage.jst.go.jp/article/psychono/36/1/36_36.2/_pdf/-char/en",
+      "year": 2017,
+      "authors": [
+        "Yoshie Kiritani",
+        "Akane Okazaki",
+        "Kanako Motoyoshi",
+        "Ruriko Takano",
+        "Noriko Ookubo"
+      ],
+      "local_path": "data/raw/academic_papers/AR004_唇色視覺錯覺與印象_英文文獻_2017.pdf",
+      "notes": "英文期刊論文（日本基礎心理學會期刊，J-STAGE）。PDF 標示 All rights reserved，非開放授權，公開重製前須確認；作者含資生堂研究人員。清冊原記 access_pending，本機已取得全文 2026-10-15。"
+    },
+    {
+      "doc_id": "AR005",
+      "display_name_zh": "口紅色彩與心理意象",
+      "source_type": "journal_article",
+      "categories": [
+        "K02",
+        "K05"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "abstract_only",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/col.22922",
+      "year": 2024,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "AR006",
+      "display_name_zh": "膚色對唇膏色彩情緒影響",
+      "source_type": "journal_article",
+      "categories": [
+        "K03",
+        "K05"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "abstract_only",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": 2017,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "AR007",
+      "display_name_zh": "唇色與臉部吸引力",
+      "source_type": "journal_article",
+      "categories": [
+        "K05"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "abstract_only",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/20942361/",
+      "year": 2010,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "AR008",
+      "display_name_zh": "虛擬唇妝色彩再現",
+      "source_type": "journal_article",
+      "categories": [
+        "K01",
+        "K03"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "abstract_only",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/col.22549",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "AR009",
+      "display_name_zh": "個人化彩妝色彩探索",
+      "source_type": "journal_article",
+      "categories": [
+        "K02",
+        "K05"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "abstract_only",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://doi.org/10.1080/10447318.2025.2599521",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "AR010",
+      "display_name_zh": "唇膏持色與暈染量化",
+      "source_type": "journal_article",
+      "categories": [
+        "K03",
+        "K04"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "abstract_only",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33413784/",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "AR011",
+      "display_name_zh": "彩妝產品影像量化",
+      "source_type": "journal_article",
+      "categories": [
+        "K01",
+        "K03"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "abstract_only",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/11428961/",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR001",
+      "display_name_zh": "彩妝色彩理論入門",
+      "source_type": "professional_article",
+      "categories": [
+        "K01",
+        "K04"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://global.kryolan.com/blog/posts/color-theory-beginner",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR002",
+      "display_name_zh": "進階色彩理論",
+      "source_type": "professional_article",
+      "categories": [
+        "K01",
+        "K03",
+        "K04"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://global.kryolan.com/blog/posts/color-theory-advanced",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR003",
+      "display_name_zh": "膚色與冷暖底調（英文文獻）",
+      "source_type": "professional_article",
+      "categories": [
+        "K03"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://global.kryolan.com/blog/posts/skin-tones",
+      "year": null,
+      "authors": [
+        "Kryolan"
+      ],
+      "local_path": "data/raw/web/PR003_膚色與冷暖底調_英文文獻.html",
+      "notes": "品牌部落格，業界經驗，非實證研究。頁面未標作者與發布日期（頁尾 © 2026 為版權年份，不當作發布年）；網頁擷取日期 2026-10-14；授權未標示，公開重製前須確認。原本機暫用 doc_id KRYOLAN_SKIN_TONES，已改為本編號。"
+    },
+    {
+      "doc_id": "PR004",
+      "display_name_zh": "專業校色與色彩修飾",
+      "source_type": "professional_article",
+      "categories": [
+        "K01",
+        "K04"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://global.kryolan.com/blog/posts/color-correction",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR005",
+      "display_name_zh": "唇蜜質地與上色方法（英文文獻）",
+      "source_type": "professional_article",
+      "categories": [
+        "K03",
+        "K04"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://global.kryolan.com/blog/posts/how-lip-gloss",
+      "year": null,
+      "authors": [
+        "Kryolan"
+      ],
+      "local_path": "data/raw/web/PR005_唇蜜質地與上色方法_英文文獻.html",
+      "notes": "品牌部落格，業界經驗，非實證研究。頁面未標作者與發布日期；授權未標示，公開重製前須確認。擷取日期 2026-10-15。"
+    },
+    {
+      "doc_id": "PR006",
+      "display_name_zh": "唇頰同色系妝容",
+      "source_type": "professional_article",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://global.kryolan.com/blog/posts/double-duty-beauty-using-cream-blush-both-lips-and-cheeks-pro-make-up",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR007",
+      "display_name_zh": "彩色眼妝搭配",
+      "source_type": "professional_article",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://us.kryolan.com/howto/colorful-eye-make-up",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR008",
+      "display_name_zh": "高彩度腮紅妝容",
+      "source_type": "professional_article",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://us.kryolan.com/howto/bold-blush",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR009",
+      "display_name_zh": "18 種眼影與唇色配對",
+      "source_type": "professional_article",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.lorealparisusa.com/beauty-magazine/makeup/makeup-looks/best-eye-shadow-lipstick-pairs",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR010",
+      "display_name_zh": "甜美彩妝風格",
+      "source_type": "professional_article",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.lorealparisusa.com/beauty-magazine/makeup/makeup-looks/cute-makeup-looks",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR011",
+      "display_name_zh": "紅唇與整體妝容",
+      "source_type": "professional_article",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.lorealparisusa.com/beauty-magazine/makeup/lip-makeup/red-lipstick-looks",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR012",
+      "display_name_zh": "日常簡易妝容（英文文獻）",
+      "source_type": "professional_article",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.lorealparisusa.com/beauty-magazine/makeup/makeup-looks/easy-everyday-makeup-tutorials",
+      "year": 2025,
+      "authors": [
+        "Gillian Fuller"
+      ],
+      "local_path": "data/raw/web/PR012_日常簡易妝容_英文文獻.html",
+      "notes": "L'Oréal Paris 美妝雜誌文章（含商品推廣），業界經驗，非實證研究。作者 Gillian Fuller，2025-03-21。授權未標示，公開重製前須確認。擷取日期 2026-10-15。"
+    },
+    {
+      "doc_id": "PR013",
+      "display_name_zh": "中性色系彩妝",
+      "source_type": "professional_article",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.lorealparisusa.com/beauty-magazine/makeup/makeup-looks/neutral-makeup-looks-and-eyeshadow",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR014",
+      "display_name_zh": "彩妝色環運用",
+      "source_type": "professional_article",
+      "categories": [
+        "K01",
+        "K04"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.lorealparisusa.com/beauty-magazine/makeup/makeup-looks/makeup-color-wheel",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR015",
+      "display_name_zh": "霧面唇彩搭配技巧（英文文獻）",
+      "source_type": "professional_article",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.lorealparisusa.com/beauty-magazine/makeup/lip-makeup/matte-lipstick-dos-and-donts",
+      "year": 2025,
+      "authors": [
+        "Gillian Fuller"
+      ],
+      "local_path": "data/raw/web/PR015_霧面唇彩搭配技巧_英文文獻.html",
+      "notes": "L'Oréal Paris 美妝雜誌文章（含商品推廣），業界經驗，非實證研究。作者 Gillian Fuller，2025-12-18。授權未標示，公開重製前須確認。擷取日期 2026-10-15。"
+    },
+    {
+      "doc_id": "PR016",
+      "display_name_zh": "粉色眼影搭配",
+      "source_type": "professional_article",
+      "categories": [
+        "K04"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.lorealparisusa.com/beauty-magazine/makeup/eye-makeup/pink-eyeshadow-looks",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR017",
+      "display_name_zh": "粉色系整體彩妝（英文文獻）",
+      "source_type": "professional_article",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.lorealparisusa.com/beauty-magazine/makeup/makeup-looks/baby-pink-monochromatic-makeup-tutorial",
+      "year": 2025,
+      "authors": [
+        "Gillian Fuller"
+      ],
+      "local_path": "data/raw/web/PR017_粉色系整體彩妝_英文文獻.html",
+      "notes": "L'Oréal Paris 美妝雜誌文章（含商品推廣），業界經驗，非實證研究。頁面顯示 2025-07-02，JSON-LD 發布日 2025-12-01，兩者不一致。授權未標示，公開重製前須確認。擷取日期 2026-10-15。"
+    },
+    {
+      "doc_id": "PR018",
+      "display_name_zh": "不同膚色的腮紅選擇",
+      "source_type": "professional_article",
+      "categories": [
+        "K03",
+        "K04"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.lorealparisusa.com/beauty-magazine/makeup/face-makeup/blush-for-your-skintone",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR019",
+      "display_name_zh": "唇部與腮紅技巧",
+      "source_type": "professional_article",
+      "categories": [
+        "K03",
+        "K04"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.bobbibrown.co.uk/makeup-lesson-cheeks-lips",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR020",
+      "display_name_zh": "深膚色的唇膏選擇（英文文獻）",
+      "source_type": "professional_article",
+      "categories": [
+        "K03",
+        "K04"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.charlottetilbury.com/eu/secrets/best-lipstick-colours-dark-skin",
+      "year": 2026,
+      "authors": [
+        "Charlotte Tilbury"
+      ],
+      "local_path": "data/raw/web/PR020_深膚色的唇膏選擇_英文文獻.html",
+      "notes": "品牌部落格（大量商品推廣，色號建議即自家商品），業界經驗，非實證研究。頁尾標示 All rights reserved，公開重製前須確認。擷取日期 2026-10-15。"
+    },
+    {
+      "doc_id": "PR021",
+      "display_name_zh": "唇膏選色指南（英文文獻）",
+      "source_type": "professional_article",
+      "categories": [
+        "K03",
+        "K04"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.charlottetilbury.com/ca/secrets/how-to-choose-lipstick",
+      "year": 2026,
+      "authors": [
+        "Charlotte Tilbury"
+      ],
+      "local_path": "data/raw/web/PR021_唇膏選色指南_英文文獻.html",
+      "notes": "品牌部落格（大量商品推廣），業界經驗，非實證研究。內含判斷冷暖底調的步驟（看血管、金銀飾、日曬反應），屬業界說法，不可當實證。頁尾標示 All rights reserved，公開重製前須確認。擷取日期 2026-10-15。"
+    },
+    {
+      "doc_id": "PR022",
+      "display_name_zh": "彩妝中的色相明度彩度",
+      "source_type": "professional_article",
+      "categories": [
+        "K01",
+        "K04"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://beautylearn.com/en/guides/colour-theory-for-makeup-hue-value-saturation-neutralisation",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "PR023",
+      "display_name_zh": "台灣秋季唇彩色系",
+      "source_type": "professional_article",
+      "categories": [
+        "K02",
+        "K06"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.maybelline.com.tw/makeup-tips/lip-makeup-tutorials/trending-fall-lipstick-colors",
+      "year": null,
+      "authors": [
+        "Maybelline New York"
+      ],
+      "local_path": "data/raw/web/PR023_台灣秋季唇彩色系.html",
+      "notes": "中文品牌彩妝教學（含商品推廣），業界經驗，非實證研究。頁面署名「By Maybelline New York」，標示日期 2026-06-03（JSON-LD datePublished 2026-06-01）；同站 PR023–PR028 皆在 2026-06-03／04 數分鐘內發布，疑為網站批次上架日、非原始發表日，故 year 填 null。授權未標示（頁尾僅 © 2021），公開重製前須確認。內文與 meta description 皆寫「2020 年秋季」流行唇彩，內容時效需注意。擷取日期 2026-10-15。"
+    },
+    {
+      "doc_id": "PR024",
+      "display_name_zh": "漸層紅唇技巧",
+      "source_type": "professional_article",
+      "categories": [
+        "K04"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.maybelline.com.tw/makeup-tips/lip-makeup-tutorials/how-to-do-red-ombre-lips",
+      "year": null,
+      "authors": [
+        "Maybelline New York"
+      ],
+      "local_path": "data/raw/web/PR024_漸層紅唇技巧.html",
+      "notes": "中文品牌彩妝教學（含商品推廣），業界經驗，非實證研究。頁面署名「By Maybelline New York」，標示日期 2026-06-03（JSON-LD datePublished 2026-06-01）；同站 PR023–PR028 皆在 2026-06-03／04 數分鐘內發布，疑為網站批次上架日、非原始發表日，故 year 填 null。授權未標示（頁尾僅 © 2021），公開重製前須確認。擷取日期 2026-10-15。"
+    },
+    {
+      "doc_id": "PR025",
+      "display_name_zh": "霧面液態唇膏上妝",
+      "source_type": "professional_article",
+      "categories": [
+        "K04"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.maybelline.com.tw/makeup-tips/lip-makeup-tutorials/how-to-apply-liquid-matte-lipstick",
+      "year": null,
+      "authors": [
+        "Maybelline New York"
+      ],
+      "local_path": "data/raw/web/PR025_霧面液態唇膏上妝.html",
+      "notes": "中文品牌彩妝教學（含商品推廣），業界經驗，非實證研究。頁面署名「By Maybelline New York」，標示日期 2026-06-04；同站 PR023–PR028 皆在 2026-06-03／04 數分鐘內發布，疑為網站批次上架日、非原始發表日，故 year 填 null。授權未標示（頁尾僅 © 2021），公開重製前須確認。擷取日期 2026-10-15。"
+    },
+    {
+      "doc_id": "PR026",
+      "display_name_zh": "跨年派對妝容",
+      "source_type": "professional_article",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.maybelline.com.tw/makeup-tips/all-makeup-trends/by-occasion/new-years-makeup-tutorial",
+      "year": null,
+      "authors": [
+        "Maybelline New York"
+      ],
+      "local_path": "data/raw/web/PR026_跨年派對妝容.html",
+      "notes": "中文品牌彩妝教學（含商品推廣），業界經驗，非實證研究。頁面署名「By Maybelline New York」，標示日期 2026-06-03；同站 PR023–PR028 皆在 2026-06-03／04 數分鐘內發布，疑為網站批次上架日、非原始發表日，故 year 填 null。授權未標示（頁尾僅 © 2021），公開重製前須確認。擷取日期 2026-10-15。"
+    },
+    {
+      "doc_id": "PR027",
+      "display_name_zh": "節慶妝容搭配",
+      "source_type": "professional_article",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.maybelline.com.tw/makeup-tips/all-makeup-trends/by-occasion/festival--flare",
+      "year": null,
+      "authors": [
+        "Maybelline New York"
+      ],
+      "local_path": "data/raw/web/PR027_節慶妝容搭配.html",
+      "notes": "中文品牌彩妝教學（含商品推廣），業界經驗，非實證研究。頁面署名「By Maybelline New York」，標示日期 2026-06-03；同站 PR023–PR028 皆在 2026-06-03／04 數分鐘內發布，疑為網站批次上架日、非原始發表日，故 year 填 null。授權未標示（頁尾僅 © 2021），公開重製前須確認。擷取日期 2026-10-15。"
+    },
+    {
+      "doc_id": "PR028",
+      "display_name_zh": "立體妝容與腮紅配置",
+      "source_type": "professional_article",
+      "categories": [
+        "K04"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.maybelline.com.tw/makeup-tips/all-makeup-trends/by-style/holographic-draping",
+      "year": null,
+      "authors": [
+        "Maybelline New York"
+      ],
+      "local_path": "data/raw/web/PR028_立體妝容與腮紅配置.html",
+      "notes": "中文品牌彩妝教學（含商品推廣），業界經驗，非實證研究。頁面署名「By Maybelline New York」，標示日期 2026-06-03；同站 PR023–PR028 皆在 2026-06-03／04 數分鐘內發布，疑為網站批次上架日、非原始發表日，故 year 填 null。授權未標示（頁尾僅 © 2021），公開重製前須確認。本機原檔名原誤植為「筷紅」，已改為「腮紅」。擷取日期 2026-10-15。"
+    },
+    {
+      "doc_id": "TX001",
+      "display_name_zh": "美容治療師職訓教材第12級（英文文獻）",
+      "source_type": "textbook",
+      "categories": [
+        "K01",
+        "K04"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://psscive.ac.in/storage/uploads/textbooks/pdf/english/beauty-therapist-english-class-%2012.pdf",
+      "year": 2026,
+      "authors": [
+        "National Council of Educational Research and Training (NCERT)"
+      ],
+      "local_path": "data/raw/academic_papers/TX001_美容治療師職訓教材第12級_英文文獻.pdf",
+      "notes": "印度 NCERT 職業教育教材（業界實務，非實證研究）。year 取初版日期 2026-01，版權年 2025。p.3 標示 ALL RIGHTS RESERVED，公開重製前須確認。ETL 品質差：p.1、5、11 無文字層，861 區塊待確認。本機取得 2026-10-15。"
+    },
+    {
+      "doc_id": "TX002",
+      "display_name_zh": "Beauty and Wellness — Class XI",
+      "source_type": "textbook",
+      "categories": [
+        "K01",
+        "K04",
+        "K06"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "access_pending",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://cbseacademic.nic.in/web_material/Curriculum/Vocational/2018/Beauty%20and%20Wellness%20XI.pdf",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "TX003",
+      "display_name_zh": "Color Theory for the Make-up Artist",
+      "source_type": "book",
+      "categories": [
+        "K01",
+        "K04"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "partial_only",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "TX004",
+      "display_name_zh": "The Makeup Artist Handbook",
+      "source_type": "book",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "access_pending",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "TX005",
+      "display_name_zh": "Bobbi Brown Makeup Manual",
+      "source_type": "book",
+      "categories": [
+        "K03",
+        "K04"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "access_pending",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "TX006",
+      "display_name_zh": "超完美彩妝方程式：適顏美人彩妝術",
+      "source_type": "book",
+      "categories": [
+        "K03",
+        "K04"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "partial_only",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "GD001",
+      "display_name_zh": "美容技術士技能檢定規範",
+      "source_type": "guideline",
+      "categories": [
+        "K04",
+        "K06"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "access_pending",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": null,
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "GD002",
+      "display_name_zh": "ISO/CIE 11664-4:2019",
+      "source_type": "standard",
+      "categories": [
+        "K01"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "restricted",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.iso.org/standard/74166.html",
+      "year": null,
+      "authors": [],
+      "local_path": null,
+      "notes": null
+    },
+    {
+      "doc_id": "AR012",
+      "display_name_zh": "唇妝紅色變化的分類與標記（英文文獻）",
+      "source_type": "journal_article",
+      "categories": [
+        "K01",
+        "K02"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://doi.org/10.1002/col.22991",
+      "year": 2025,
+      "authors": [
+        "Boram Kim",
+        "Stella Yolanda",
+        "Moonha Kim",
+        "Hyeon-Jeong Suk"
+      ],
+      "local_path": "data/raw/academic_papers/AR012_唇妝紅色變化的分類與標記_英文文獻_2025.pdf",
+      "notes": "英文期刊論文。PDF p.1 標示 CC BY-NC-ND（禁止改作）：切片與改寫成推薦理由是否屬改作，公開或商用前須確認。研究由 Amorepacific Corporation 資助（利益相關）。"
+    },
+    {
+      "doc_id": "AR013",
+      "display_name_zh": "媚比琳唇彩色名的命名策略（英文文獻）",
+      "source_type": "journal_article",
+      "categories": [
+        "K02"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://doi.org/10.23738/CCSJ.150109",
+      "year": null,
+      "authors": [
+        "Isabel Espinosa-Zaragoza"
+      ],
+      "local_path": null,
+      "notes": "“Perpetual plum”: Colour naming strategies in Maybelline’s lip products。Color Culture and Science Journal 15(1), p.69 起；PDF p.1 標示 RECEIVED 17/03/22、ACCEPTED 31/10/22，出版年份 PDF 未印，未填。分析媚比琳 4 個系列共 76 個唇膏色名的構詞與主題，只研究色名、無色值量測。全文由 RUA（University of Alicante 典藏）取得（2026-10-16 核對），PDF 未見授權聲明。"
+    },
+    {
+      "doc_id": "AR014",
+      "display_name_zh": "以色彩影像 RGB 值分析口紅品牌特徵（日文文獻）",
+      "source_type": "journal_article",
+      "categories": [
+        "K01"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://doi.org/10.5057/jjske.TJSKE-D-20-00010",
+      "year": 2020,
+      "authors": [
+        "スリーピァン ピーラヤー",
+        "大倉 典子",
+        "タネースーン ケージケーオ",
+        "宮武 恵子"
+      ],
+      "local_path": null,
+      "notes": "色彩特徴の統計解析による口紅のブランドの特徴づけ —色画像のRGB値を用いて—。日本感性工学会論文誌 19(4): 389–393（J-STAGE 公開 2020-12-25）。以網站取得的 294 張口紅色彩影像 RGB 值，用分布圖與決策樹比較品牌，摘要明確含 MAC 與 CHANEL；比較的是品牌層級，未逐一對照色號名稱。J-STAGE 標示「ジャーナル フリー」、© 2020 日本感性工学会，未見 CC 授權。書目依 J-STAGE 文章頁核對（2026-10-16），全文未下載。"
+    },
+    {
+      "doc_id": "PR029",
+      "display_name_zh": "M·A·C 台灣官網唇彩色彩詞語料（僅色彩詞）",
+      "source_type": "professional_article",
+      "categories": [
+        "K02"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_reported",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.maccosmetics.com.tw/lipstick-shade-finder",
+      "year": null,
+      "authors": [],
+      "local_path": "data/review/color_terms/PR029_MAC_TW_K02_color_terms.csv",
+      "notes": "候選語料，不是學術研究證據或產品推薦資料；從 2026-10-17 MAC 台灣官網頁面提取的 194 個色號紀錄中，保留 166 筆含中文色彩詞的語料（165 個不同詞）。衍生 CSV 排除商品名稱、英文色號名、SKU、商品ID、購物連結；官方 HEX 僅為網頁色塊示意，不能作詞語唯一標準色。原始 CSV 在 data/mac-shade-terms 分支，資料來源需人工審核與確認使用權限。尚未進入 ETL、S12 或 RAG 索引。"
+    },
+    {
+      "doc_id": "PR030",
+      "display_name_zh": "橘色唇膏挑色與擦法（英文文獻）",
+      "source_type": "professional_article",
+      "categories": [
+        "K03",
+        "K04"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.clarins.co.uk/beauty-expert-guide-uk/orange-lipstick-guide.html",
+      "year": null,
+      "authors": [
+        "Clarins UK"
+      ],
+      "local_path": "data/raw/web/PR030_橘色唇膏挑色與擦法_英文文獻.html",
+      "notes": "品牌美容指南（含商品推廣），業界經驗，非實證研究。內容含冷暖調橘色的差別（偏冷的橘帶粉或棕底調）與上妝方法（從淡色開始疊加、去角質保濕、同色唇線筆、面紙吸掉多餘再補、其餘妝容清淡），回應 P02「冷底想擦橘色」。原為平行修補候選 C-P02-1（2026-10-23 下載、抽取、清洗；原始 HTML SHA-256 a09268426bace22ddbcad4c2a624e127a70e095eb82b61711f31793f4a4ca32e；清洗 74 段保留 41 段），2026-10-26 改用本編號後才入庫。授權未標示，公開重製前須確認。只用一般選色與上妝做法，不用商品推薦。"
+    },
+    {
+      "doc_id": "PR031",
+      "display_name_zh": "奶茶色與豆沙色選色（美妝網站文章）",
+      "source_type": "professional_article",
+      "categories": [
+        "K03",
+        "K04",
+        "K06"
+      ],
+      "registration_status": "candidate",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://world.taobao.com/lang/zh-tw/shopping-guide/2036528260157800448.htm",
+      "year": 2026,
+      "authors": [],
+      "local_path": "data/raw/web/PR031_奶茶色與豆沙色選色_美妝網站文章.html",
+      "notes": "美妝網站文章（來源網站標示 NARS Dolce Vita，發文 2026-09-15 11:10:34，未署作者），業界經驗，非實證研究。內容含奶茶色與豆沙色的底色差別、黃皮與深唇選色、霧面太乾的處理、深唇打底、自然光試色。2026-10-26 加入，依本清冊編號後才入庫；授權未標示，公開重製前須確認；不用商品推薦與價格。擷取日期 2026-10-26。"
+    },
+    {
+      "doc_id": "PR032",
+      "display_name_zh": "顏色的文化意義：紅白綠黃在各國為什麼解讀不同",
+      "source_type": "web_article",
+      "categories": [
+        "K02",
+        "K05"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "fulltext_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.pongo.com.tw/color-cultural-meaning/",
+      "year": 2026,
+      "authors": [
+        "Haden"
+      ],
+      "local_path": "data/raw/web/PR032_pongo_color_culture.rendered.html",
+      "notes": "2026-10-28：5段選擇性摘錄；3篇被引研究逐段映射；原文與排除清單在Git外；不是人工核准。"
+    },
+    {
+      "doc_id": "PR033",
+      "display_name_zh": "藍調紅與橘紅的冷暖描述",
+      "source_type": "web_article",
+      "categories": [
+        "K02",
+        "K04"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "target_paragraph_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.reddit.com/r/femalefashionadvice/comments/1pbmrj/comment/cd128d0/",
+      "year": null,
+      "authors": [
+        "[deleted]"
+      ],
+      "local_path": "data/raw/web/PR033_source.json",
+      "notes": "2026-10-30使用者指定完整段落供全開實驗庫。社群匿名留言，非專業或學術定義。只支持此留言把blue-red稱cool red、orange-red稱warm red；深淺亮暗只描述連結圖片，不能概括所有冷暖紅。原文兩處都寫left，未改成right；圖片未核對。日期未核實，不沿用主貼日期當留言日期。"
+    },
+    {
+      "doc_id": "PR034",
+      "display_name_zh": "品牌煙燻粉棕色描述",
+      "source_type": "web_article",
+      "categories": [
+        "K02",
+        "K04"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "target_paragraph_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.cosme.net.tw/beautynews/19868",
+      "year": 2020,
+      "authors": [],
+      "local_path": "data/raw/web/PR034_source.html",
+      "notes": "2026-10-30使用者指定完整段落供全開實驗庫。品牌宣傳報導，只支持該系列介於豆沙裸棕與乾燥玫瑰之間、帶灰調煙燻粉棕的描述，不是乾燥玫瑰的通用定義。完整段落含仙氣、氣質、不反灰暗沉等宣傳詞，不得當實證功效、普遍保證或個人適用結論。無Lab或HEX數值。"
+    },
+    {
+      "doc_id": "PR035",
+      "display_name_zh": "口紅色號命名的行銷聯想",
+      "source_type": "web_article",
+      "categories": [
+        "K02",
+        "K04"
+      ],
+      "registration_status": "etl_registered",
+      "fulltext_status": "target_paragraph_available",
+      "review_status": "pending_review",
+      "license_status": "pending_review",
+      "source_url": "https://www.cbndata.com/information/190676",
+      "year": 2021,
+      "authors": [
+        "Evelyn Wang"
+      ],
+      "local_path": "data/raw/web/PR035_source.html",
+      "notes": "2026-10-30使用者指定完整段落供全開實驗庫。媒體行銷觀察，支持命名兼顧色彩特質與情感聯想；不支持任何單一產品實際色值、也不表示所有色名都毫無色彩資訊。原文為簡體，原文字段不轉繁體。此段沒有引用研究，不將頁面別段研究套入。"
+    }
+  ]
+}

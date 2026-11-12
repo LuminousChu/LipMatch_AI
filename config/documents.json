@@ -1,0 +1,110 @@
+{
+  "_說明": "run_all.py 要處理的文獻清單。新增論文：把檔案放進 data/raw/（可放子資料夾），在下面加一筆 {doc_id, path}，並在 config/sources.json 登錄書目。doc_id 只能用英數、底線、連字號；path 相對於專案根目錄。pages 可省略（=全部頁），例如 \"1-12\"。table_check=true 會在最後跑 04_check_tables.py（目前只有 Leeds 有人工轉錄的表格）。",
+  "documents": [
+    {
+      "doc_id": "TH013",
+      "path": "data/raw/academic_papers/TH013_唇彩影響臉部色彩感知_英文文獻_2024.pdf",
+      "table_check": true
+    },
+    {
+      "doc_id": "TH014",
+      "path": "data/raw/academic_papers/TH014_彩妝膚色顯示與LED偏好_2014.pdf"
+    },
+    {
+      "doc_id": "AR015",
+      "path": "data/raw/academic_papers/AR015_四族群自然唇色色卡研究_英文文獻_2026.pdf"
+    },
+    {
+      "doc_id": "AR012",
+      "path": "data/raw/academic_papers/AR012_唇妝紅色變化的分類與標記_英文文獻_2025.pdf"
+    },
+    {
+      "doc_id": "AR002",
+      "path": "data/raw/academic_papers/AR002_不同光源與唇彩偏好_英文文獻_2023.pdf"
+    },
+    {
+      "doc_id": "PR003",
+      "path": "data/raw/web/PR003_膚色與冷暖底調_英文文獻.html"
+    },
+    {
+      "doc_id": "AR001",
+      "path": "data/raw/academic_papers/AR001_高光譜唇色測量與可靠性_英文文獻_2023.pdf"
+    },
+    {
+      "doc_id": "AR003",
+      "path": "data/raw/academic_papers/AR003_唇色與臉部明亮感_英文文獻_2017.pdf"
+    },
+    {
+      "doc_id": "AR004",
+      "path": "data/raw/academic_papers/AR004_唇色視覺錯覺與印象_英文文獻_2017.pdf"
+    },
+    {
+      "doc_id": "TX001",
+      "path": "data/raw/academic_papers/TX001_美容治療師職訓教材第12級_英文文獻.pdf"
+    },
+    {
+      "doc_id": "PR005",
+      "path": "data/raw/web/PR005_唇蜜質地與上色方法_英文文獻.html"
+    },
+    {
+      "doc_id": "PR012",
+      "path": "data/raw/web/PR012_日常簡易妝容_英文文獻.html"
+    },
+    {
+      "doc_id": "PR015",
+      "path": "data/raw/web/PR015_霧面唇彩搭配技巧_英文文獻.html"
+    },
+    {
+      "doc_id": "PR017",
+      "path": "data/raw/web/PR017_粉色系整體彩妝_英文文獻.html"
+    },
+    {
+      "doc_id": "PR020",
+      "path": "data/raw/web/PR020_深膚色的唇膏選擇_英文文獻.html"
+    },
+    {
+      "doc_id": "PR021",
+      "path": "data/raw/web/PR021_唇膏選色指南_英文文獻.html"
+    },
+    {
+      "doc_id": "PR023",
+      "path": "data/raw/web/PR023_台灣秋季唇彩色系.html"
+    },
+    {
+      "doc_id": "PR024",
+      "path": "data/raw/web/PR024_漸層紅唇技巧.html"
+    },
+    {
+      "doc_id": "PR025",
+      "path": "data/raw/web/PR025_霧面液態唇膏上妝.html"
+    },
+    {
+      "doc_id": "PR026",
+      "path": "data/raw/web/PR026_跨年派對妝容.html"
+    },
+    {
+      "doc_id": "PR027",
+      "path": "data/raw/web/PR027_節慶妝容搭配.html"
+    },
+    {
+      "doc_id": "PR028",
+      "path": "data/raw/web/PR028_立體妝容與腮紅配置.html"
+    },
+    {
+      "doc_id": "PR032",
+      "path": "data/raw/web/PR032_pongo_color_culture.rendered.html"
+    },
+    {
+      "doc_id": "PR033",
+      "path": "data/raw/web/PR033_source.json"
+    },
+    {
+      "doc_id": "PR034",
+      "path": "data/raw/web/PR034_source.html"
+    },
+    {
+      "doc_id": "PR035",
+      "path": "data/raw/web/PR035_source.html"
+    }
+  ]
+}

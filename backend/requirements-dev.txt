@@ -1,0 +1,5 @@
+-r requirements.txt
+pytest==8.3.4
+httpx==0.28.1
+# 測試用：在暫存目錄啟動獨立 PostgreSQL + pgvector，不碰任何既有資料庫
+pgserver==0.1.4

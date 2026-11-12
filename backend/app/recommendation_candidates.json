@@ -1,0 +1,7 @@
+{
+  "schema_version": "cand-v1",
+  "status": "awaiting_b_line",
+  "synthetic": false,
+  "note": "正式推薦候選。B 線依 docs/mvp/s7-candidate-fill-template.md 核對後填入，status 改成 verified；目前沒有任何經人工核對的候選，所以系統不會給推薦。",
+  "candidates": []
+}

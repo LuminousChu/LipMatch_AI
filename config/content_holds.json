@@ -1,0 +1,15 @@
+{
+  "_說明": "人工決定排除的內容（不作推薦／回答證據）。清洗時把符合的區塊標為待確認並寫明原因，05 匯出依既有資格判斷不匯出；原文保留在 cleaned 輸出。每筆綁定原始檔 SHA-256 與區塊文字指紋（壓空白後的 cleaned_text 之 SHA-256）：來源或文字變動時 02_clean 直接報錯，必須重新核對後更新本檔，不可只改指紋讓它通過。",
+  "holds": [
+    {
+      "doc_id": "TX001",
+      "source_sha256": "9548720553a3cab4812f9d56689548f888b169c930317314f7f8aa29fec2e0ea",
+      "page": 35,
+      "text_sha256": "bf89e817ece969966919783dd4d5b869ad58ec2e8ba0728fdc7225a5a6629277",
+      "text_start": "1. Vein test:",
+      "reason": "內容衝突排除：靜脈判斷敘述（偏藍＝暖底、偏綠＝冷底）與同一教材 p.100 Answer Key 相反（偏藍＝冷底），不作推薦證據；原文與衝突紀錄保留",
+      "decided_by": "2026-10-17 決策 3",
+      "record": "docs/mvp/handoffs/ETL-TX001-runin.md 第七節；docs/mvp/handoffs/2026-10-17_TX001章節路徑與段落修正.md"
+    }
+  ]
+}

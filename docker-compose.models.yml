@@ -1,0 +1,36 @@
+# 接上嵌入與生成模型的覆寫檔：疊在 docker-compose.yml 上使用。
+# 模型服務以 llama.cpp 的 llama-server 啟動（OpenAI 相容 API），位址與金鑰寫在 .env，這裡不寫死任何秘密。
+# 用法（專案根目錄）：
+#   docker compose -f docker-compose.yml -f docker-compose.models.yml up -d --build
+# 預設值為展示環境使用的設定；模型服務在主機上時，容器以 host.docker.internal 連主機。
+
+services:
+  backend:
+    environment:
+      EMBEDDING_PROVIDER: ${EMBEDDING_PROVIDER:-llamacpp}
+      EMBEDDING_BASE_URL: "${EMBEDDING_BASE_URL:-http://host.docker.internal:8099}"
+      EMBEDDING_MODEL: ${EMBEDDING_MODEL:-xVITA-Embed-300M-zhTW-F16}
+      EMBEDDING_DIM: ${EMBEDDING_DIM:-768}
+      EMBEDDING_MODEL_SHA256: ${EMBEDDING_MODEL_SHA256:-}
+      EMBEDDING_DOC_PREFIX: "${EMBEDDING_DOC_PREFIX:-title: none | text: }"
+      EMBEDDING_QUERY_PREFIX: "${EMBEDDING_QUERY_PREFIX:-task: search result | query: }"
+      GENERATION_PROVIDER: ${GENERATION_PROVIDER:-llamacpp}
+      GENERATION_BASE_URL: ${GENERATION_BASE_URL:-}
+      GENERATION_MODEL: ${GENERATION_MODEL:-gemma-4-12B-it-Q4_K_M}
+      GENERATION_API_KEY: ${GENERATION_API_KEY:-}
+      GENERATION_TIMEOUT_S: ${GENERATION_TIMEOUT_S:-180}
+      GENERATION_MAX_RETRIES: ${GENERATION_MAX_RETRIES:-0}
+      GENERATION_CHAT_TEMPLATE_KWARGS: '${GENERATION_CHAT_TEMPLATE_KWARGS:-{"enable_thinking": false}}'
+      GENERATION_CACHE_PROMPT: ${GENERATION_CACHE_PROMPT:-false}
+      GENERATION_COMPACT_JSON: ${GENERATION_COMPACT_JSON:-on}   # 單行 JSON 文法輸出
+      QA_PIPELINE: ${QA_PIPELINE:-repair}
+      QA_SELECTOR: ${QA_SELECTOR:-none}
+      QA_K_POOL: ${QA_K_POOL:-25}                     # 候選池段數
+      QA_GLOSSARY: ${QA_GLOSSARY:-on}                 # 中英術語對照的關鍵詞檢索
+      QA_MULTI_NEED: ${QA_MULTI_NEED:-on}             # 一句多個需求分別檢索
+      QA_CITATION_REPAIR: ${QA_CITATION_REPAIR:-on}   # 漏標的送入證據補上引用
+      QA_PRODUCT_REFERENCE: ${QA_PRODUCT_REFERENCE:-on}   # 品牌色號只當顏色參考
+      COLOR_REFERENCE_CSV: ${COLOR_REFERENCE_CSV:-}   # 色名參照表（選用；沒有設定時不附色名參照）
+      COLOR_REFERENCE_SHA256: ${COLOR_REFERENCE_SHA256:-}
+    extra_hosts:
+      - "host.docker.internal:host-gateway"

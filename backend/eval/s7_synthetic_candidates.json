@@ -1,0 +1,365 @@
+{
+ "schema_version": "cand-v1",
+ "status": "synthetic_test",
+ "synthetic": true,
+ "note": "SYNTHETIC：S7 演算法驗收用的合成候選與合成證據。不是 B 線核對結果，不可載入正式資料庫、不可作正式驗收。",
+ "candidates": [
+  {
+   "option_key": "synthetic-nude-satin",
+   "name": "裸色／奶茶色・緞光（合成）",
+   "description": "【SYNTHETIC】演算法測試用合成候選，不可作正式推薦",
+   "attributes": {
+    "color_family": "nude",
+    "finishes": [
+     "satin"
+    ],
+    "effects": [
+     "natural"
+    ],
+    "occasions": [
+     "daily",
+     "office"
+    ],
+    "skin_tones": []
+   },
+   "limitations": [
+    "【SYNTHETIC】合成資料，僅驗證硬排除與排序規則"
+   ],
+   "evidence": [
+    {
+     "doc_key": "SYN_S7_B",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_B_NUDE_SATIN_color_family_nude",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的color_family為 nude（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "color_family:nude"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_NUDE_SATIN_finishes_satin",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的finishes為 satin（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "finishes:satin"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_NUDE_SATIN_effects_natural",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的effects為 natural（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "effects:natural"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_NUDE_SATIN_occasions_daily",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的occasions為 daily（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "occasions:daily"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_NUDE_SATIN_occasions_office",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的occasions為 office（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "occasions:office"
+     ]
+    }
+   ],
+   "verified_by": "SYNTHETIC",
+   "verified_at": "2026-10-15"
+  },
+  {
+   "option_key": "synthetic-bean-paste-matte",
+   "name": "豆沙色・霧面（合成）",
+   "description": "【SYNTHETIC】演算法測試用合成候選，不可作正式推薦",
+   "attributes": {
+    "color_family": "bean_paste",
+    "finishes": [
+     "matte"
+    ],
+    "effects": [
+     "natural",
+     "gentle"
+    ],
+    "occasions": [
+     "office"
+    ],
+    "skin_tones": []
+   },
+   "limitations": [
+    "【SYNTHETIC】合成資料，僅驗證硬排除與排序規則"
+   ],
+   "evidence": [
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_BEAN_PASTE_MATTE_color_family_bean_paste",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的color_family為 bean_paste（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "color_family:bean_paste"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_BEAN_PASTE_MATTE_finishes_matte",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的finishes為 matte（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "finishes:matte"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_BEAN_PASTE_MATTE_effects_natural",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的effects為 natural（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "effects:natural"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_BEAN_PASTE_MATTE_effects_gentle",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的effects為 gentle（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "effects:gentle"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_BEAN_PASTE_MATTE_occasions_office",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的occasions為 office（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "occasions:office"
+     ]
+    }
+   ],
+   "verified_by": "SYNTHETIC",
+   "verified_at": "2026-10-15"
+  },
+  {
+   "option_key": "synthetic-red-gloss",
+   "name": "紅色系・亮面（合成）",
+   "description": "【SYNTHETIC】演算法測試用合成候選，不可作正式推薦",
+   "attributes": {
+    "color_family": "red",
+    "finishes": [
+     "gloss"
+    ],
+    "effects": [
+     "vivid"
+    ],
+    "occasions": [
+     "party"
+    ],
+    "skin_tones": []
+   },
+   "limitations": [
+    "【SYNTHETIC】合成資料，僅驗證硬排除與排序規則"
+   ],
+   "evidence": [
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_RED_GLOSS_color_family_red",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的color_family為 red（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "color_family:red"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_RED_GLOSS_finishes_gloss",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的finishes為 gloss（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "finishes:gloss"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_RED_GLOSS_effects_vivid",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的effects為 vivid（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "effects:vivid"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_RED_GLOSS_occasions_party",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的occasions為 party（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "occasions:party"
+     ]
+    }
+   ],
+   "verified_by": "SYNTHETIC",
+   "verified_at": "2026-10-15"
+  },
+  {
+   "option_key": "synthetic-coral-unknown",
+   "name": "珊瑚色・妝感未記載（合成）",
+   "description": "【SYNTHETIC】演算法測試用合成候選，不可作正式推薦",
+   "attributes": {
+    "color_family": "coral",
+    "finishes": [],
+    "effects": [
+     "healthy_look"
+    ],
+    "occasions": [
+     "daily"
+    ],
+    "skin_tones": []
+   },
+   "limitations": [
+    "【SYNTHETIC】合成資料，僅驗證硬排除與排序規則"
+   ],
+   "evidence": [
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_CORAL_UNKNOWN_color_family_coral",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的color_family為 coral（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "color_family:coral"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_CORAL_UNKNOWN_effects_healthy_look",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的effects為 healthy_look（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "effects:healthy_look"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_CORAL_UNKNOWN_occasions_daily",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的occasions為 daily（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "occasions:daily"
+     ]
+    }
+   ],
+   "verified_by": "SYNTHETIC",
+   "verified_at": "2026-10-15"
+  },
+  {
+   "option_key": "synthetic-rose-satin",
+   "name": "玫瑰色・緞光（合成）",
+   "description": "【SYNTHETIC】演算法測試用合成候選，不可作正式推薦",
+   "attributes": {
+    "color_family": "rose",
+    "finishes": [
+     "satin"
+    ],
+    "effects": [
+     "natural",
+     "gentle"
+    ],
+    "occasions": [
+     "daily",
+     "party"
+    ],
+    "skin_tones": []
+   },
+   "limitations": [
+    "【SYNTHETIC】合成資料，僅驗證硬排除與排序規則"
+   ],
+   "evidence": [
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_ROSE_SATIN_color_family_rose",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的color_family為 rose（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "color_family:rose"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_ROSE_SATIN_finishes_satin",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的finishes為 satin（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "finishes:satin"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_ROSE_SATIN_effects_natural",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的effects為 natural（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "effects:natural"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_ROSE_SATIN_effects_gentle",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的effects為 gentle（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "effects:gentle"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_ROSE_SATIN_occasions_daily",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的occasions為 daily（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "occasions:daily"
+     ]
+    },
+    {
+     "doc_key": "SYN_S7_A",
+     "version_label": "v1",
+     "chunk_key": "SYN_S7_A_ROSE_SATIN_occasions_party",
+     "support_type": "styling_advice",
+     "claim": "【SYNTHETIC】合成證據：此方向的occasions為 party（只供規則測試，不是真實文獻主張）",
+     "supports": [
+      "occasions:party"
+     ]
+    }
+   ],
+   "verified_by": "SYNTHETIC",
+   "verified_at": "2026-10-15"
+  }
+ ]
+}

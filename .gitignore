@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# 原始文獻（含版權）與由其衍生的全文輸出：不進版本控制
+data/*.pdf
+data/*.html
+data/raw/*
+data/interim/*
+data/processed/*
+data/review/*
+!data/**/.gitkeep
+
+# 暫存
+*.tmp
+
+# 人工轉錄的表格：CSV 與說明進 git，圖片可由 PDF 重新產生
+!data/review/tables/
+data/review/tables/*.png
+# 環境變數與秘密
+.env
+# 前端建置產物與依賴
+frontend/node_modules/
+frontend/dist/
+# 前端端到端測試（Playwright）：依賴、執行結果與帳號密碼檔不進版本控制
+e2e/node_modules/
+e2e/test-results/
+e2e/playwright-report/
+e2e/.env
